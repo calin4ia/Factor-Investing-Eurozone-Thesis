@@ -1,5 +1,3 @@
-# Factor-Investing-Eurozone-Thesis
-
 # Factor Investing in the Eurozone Equity Market
 
 Python code supporting the bachelor thesis:
